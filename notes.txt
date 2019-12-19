@@ -1,0 +1,2 @@
+Example pixels query:
+curl -H "Authorization: $(cat pixels-oath-token)" "xhttps://api.pexels.com/v1/search?query=beast&per_page=1&page=1"
